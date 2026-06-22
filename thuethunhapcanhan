@@ -1,7 +1,7 @@
 import streamlit as st
 # Tiêu đề
 st.title("💰 Ứng dụng tính Thuế Thu nhập cá nhân")
-st.subheader("Nguyễn Ngọc Thanh Trúc")
+st.subheader("Lượng Ngọc Trinh")
 
 # Nhập dữ liệu
 thu_nhap = st.number_input(
